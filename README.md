@@ -1,5 +1,5 @@
 # TensorFlow study projects
-I'll use this repo to store my TensorFlow study projects. I'm following here instructions from the Udemy's "TensorFlow Developer Certificate in 2022: Zero to Mastery" course.
+I'll use this repo to store my TensorFlow (TF) study projects. I'm following here instructions from the Udemy's "TensorFlow Developer Certificate in 2022: Zero to Mastery" course.
 
 ## Project 1 - Tensor Fundamentals
 1. Reviewing concepts of tensor: creation of _scalar_, _vector_ and _matrix_ tensors with **tf.constant** and **tf.Variable**;
@@ -12,4 +12,4 @@ I'll use this repo to store my TensorFlow study projects. I'm following here ins
 ![screenshot_2.1](images/Project2_KerasCV.png)
 
 ## Project 3 - Neural Network Regression
-1. 
+1. Start with basic introduction to neural networks with TF;
