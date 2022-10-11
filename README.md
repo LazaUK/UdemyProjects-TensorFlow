@@ -12,4 +12,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 ![screenshot_2.1](images/Project2_KerasCV.png)
 
 ## Project 3 - Neural Network Regression
-1. Start with basic introduction to neural networks with TF;
+1. Start with a basic introduction to the neural networks with TF: from creating and training new model to improving its accuracy;
