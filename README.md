@@ -14,3 +14,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 ## Project 3 - Neural Network Regression
 1. Start with a basic introduction to the neural networks with TF: from creating and training new model to improving its accuracy;
 2. Model evaluation: importance of train / test data split and model structure visualisation. Calculating mean absolute error, **MAE**, and mean squared error, **MSE**.
+3. Exporting / importing trained NN model
