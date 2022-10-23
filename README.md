@@ -15,4 +15,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 1. Start with a basic introduction to the neural networks with TF: from creating and training new model to improving its accuracy;
 2. Model evaluation: importance of train / test data split and model structure visualisation. Calculating mean absolute error (**MAE**) and mean squared error (**MSE**);
 3. Saving and loading trained NN model in 2 supported formats: **SavedModel** and **HDF5**;
-4. Example of NN model trained on external big dataset. Also, introduces the use of one-hot-encoder with pandas' **get_dummies**.
+4. Example of NN model trained on external big dataset. Also, introduces the use of one-hot-encoder with pandas' **get_dummies**, as well as normalisation and standardisation.
