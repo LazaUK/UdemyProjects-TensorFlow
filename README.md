@@ -18,4 +18,5 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 4. Example of NN model trained on external big dataset. Also, introduces the use of one-hot-encoder with pandas' **get_dummies**, as well as normalisation (**MinMaxScaler**) and standardisation (**StandardScaler**).
 
 ## Project 4 - Neural Network (Classification)
-1. Generating dataset with SKLearn's **make_circles** package.
+1. Generating dataset with SKLearn's **make_circles** package. Creating first Classification NN with a Binary Enthropy to identify which circle a feature belongs to;
+2. 
