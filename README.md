@@ -22,6 +22,6 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 2. Adjusting the model, to introduce **non-linearity**, starting to use **relu** and **sigmoid** activations. Introducing **learning rate's callback** and **confusion matrix**;
 3. Exploring **multiclass** classification with neural networks:
 
-&emsp;  - if labels are hot endoded, expected loss function: CategoricalCrossentropy;
+&emsp;&emsp; ==> if labels are hot endoded, expected loss function: **CategoricalCrossentropy**;
 
-&emsp;  - if labels are integer, then expected loss function: SparseCategoricalCrossentropy.
+&emsp;&emsp; ==> if labels are integer, then expected loss function: **SparseCategoricalCrossentropy**.
