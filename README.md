@@ -20,4 +20,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 ## Project 4 - Neural Network (Classification)
 1. Generating dataset with SKLearn's **make_circles** package. Creating first Classification NN with a Binary Enthropy to identify which circle a feature belongs to. First 4 attempts failed, as the model expects **linearity**;
 2. Adjusting the model, to introduce **non-linearity**, starting to use **relu** and **sigmoid** activations. Introducing **learning rate's callback** and **confusion matrix**;
-3. Exploring **multiclass** cl;assification with neural networks.
+3. Exploring **multiclass** classification with neural networks.
