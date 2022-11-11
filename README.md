@@ -23,5 +23,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 3. Exploring **multiclass** classification with neural networks:
 
 &emsp;&emsp; ==> if labels are hot endoded, expected loss function: **CategoricalCrossentropy**;
-
 &emsp;&emsp; ==> if labels are integer, then expected loss function: **SparseCategoricalCrossentropy**.
