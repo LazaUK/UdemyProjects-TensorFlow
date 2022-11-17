@@ -20,7 +20,7 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 ## Project 4 - Neural Network (Classification)
 1. Generating dataset with SKLearn's **make_circles** package. Creating first Classification NN with a Binary Enthropy to identify which circle a feature belongs to. First 4 attempts failed, as the model expects **linearity**;
 2. Adjusting the model, to introduce **non-linearity**, starting to use **relu** and **sigmoid** activations. Introducing **learning rate's callback** and **confusion matrix**;
-3. Exploring **multiclass** classification with neural networks and visualising with Keras' "*model_plot*" utility:  
+3. Exploring **multiclass** classification with neural networks and visualising with Keras' "*plot_model*" utility:  
 &emsp;&emsp; ==> if labels are hot endoded, expected loss function: **CategoricalCrossentropy**;  
 &emsp;&emsp; ==> if labels are integer, then expected loss function: **SparseCategoricalCrossentropy**.
 ![screenshot_4.1](images/Project4_NN_Visual.png)
