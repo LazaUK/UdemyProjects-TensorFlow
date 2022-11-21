@@ -27,4 +27,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 
 ## Project 5 - Computer Vision
 1. Comparing Convolutional NN to Dense NN: less number of parameters, and still better learning about image features. Introducing "**Conv2D**" and "**MaxPooling2D**" layers;
-2. 
+2. Using CNN for Binary Classification;
