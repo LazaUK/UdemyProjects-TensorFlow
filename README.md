@@ -30,4 +30,5 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 2. Creating baseline CNN model for the "**Binary Classification**", reducing overfitting through data augmentation. Preparing custom image for the use by CNN model, introducing "**tf.io.read_file**" and "**tf.image**";
 3. Creating baseline CNN model for the "**Multiclass Classification**", introducing "**tf.keras.models.clone_model**".
 
-## 
+## Project 6 - Transfer Learning
+1. 
