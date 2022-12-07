@@ -23,7 +23,7 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 3. Exploring **multiclass** classification with neural networks and visualising with Keras' "*plot_model*" utility:  
 &emsp;&emsp; ==> if labels are hot endoded, expected loss function: "**CategoricalCrossentropy**";  
 &emsp;&emsp; ==> if labels are integer, then expected loss function: "**SparseCategoricalCrossentropy**".
-![screenshot_4.1](images/Project4_NN_Visual.png)
+![screenshot_4.3](images/Project4_NN_Visual.png)
 
 ## Project 5 - Computer Vision
 1. Comparing Convolutional NN to Dense NN: less number of parameters, and still better learning about image features. Introducing "**Conv2D**" and "**MaxPooling2D**" layers;
@@ -32,4 +32,5 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 
 ## Project 6 - Transfer Learning
 1. Using "**tensorflow_hub**" package to pull trained models from the TensorFlow Hub repository and utilise TF Sequential API to embed them into our custom models as a part of Transfer Learning. Introducing callbacks and comparing performance of different models via "**TensorBoard**";
+![screenshot_6.1](images/Project6_TensorBoard.png)
 2. 
