@@ -31,4 +31,5 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 3. Creating baseline CNN model for the "**Multiclass Classification**", introducing "**tf.keras.models.clone_model**".
 
 ## Project 6 - Transfer Learning
-1. Using "**tensorflow_hub**" package to pull trained models from the TensorFlow Hub repository and utilise TF Sequential API to embed them into our custom models as a part of Transfer Learning.
+1. Using "**tensorflow_hub**" package to pull trained models from the TensorFlow Hub repository and utilise TF Sequential API to embed them into our custom models as a part of Transfer Learning. Introducing callbacks and comparing performance of different models via "**TensorBoard**";
+2. 
