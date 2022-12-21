@@ -34,3 +34,6 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 1. Using "**tensorflow_hub**" package to pull trained models from the TensorFlow Hub repository and utilise TF Sequential API to embed them into our custom models as a part of Transfer Learning's "Feature Extraction". Introducing callbacks and comparing performance of different models via "**TensorBoard**";
 ![screenshot_6.1](images/Project6_TensorBoard.png)
 2. Utilising TF Functional API to combine pre-trained model and fine-tune it for specific scenario. Saving training-learnt weights with Checkpoint callback. Fine-tuning the model, by making some of the base model's layers retrainable;
+3. Scaling the model up from 10 to 101 classes.
+
+## Project X
