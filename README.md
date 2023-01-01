@@ -36,4 +36,6 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 2. Utilising TF Functional API to combine pre-trained model and fine-tune it for specific scenario. Saving training-learnt weights with Checkpoint callback. Fine-tuning the model, by making some of the base model's layers retrainable;
 3. Scaling the model up from 10 to 101 classes. Using SKLearn's classification reports to evaluate model efficiency.
 
-## Project X
+## Project 7 - Food Vision (Milestone 1)
+1. Introducing TensorFlow Datasets (TFDS).
+
