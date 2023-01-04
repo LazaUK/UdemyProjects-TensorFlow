@@ -37,5 +37,6 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 3. Scaling the model up from 10 to 101 classes. Using SKLearn's classification reports to evaluate model efficiency.
 
 ## Project 7 - Food Vision (Milestone 1)
-1. Introducing TensorFlow Datasets (TFDS).
+1. Introducing TensorFlow Datasets (TFDS). Learning about batching and prefetching. Creating modelling callbacks.
 
+## Project X
