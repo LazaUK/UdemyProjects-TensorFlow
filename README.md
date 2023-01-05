@@ -39,4 +39,5 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 ## Project 7 - Food Vision (Milestone 1)
 1. Introducing TensorFlow Datasets (TFDS). Learning about batching and prefetching. Creating modelling callbacks.
 
-## Project X
+## Project 8 - Natural Language Processing (NLP)
+1. 
