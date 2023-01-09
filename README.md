@@ -40,4 +40,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 1. Introducing TensorFlow Datasets (TFDS). Learning about batching and prefetching. Creating modelling callbacks.
 
 ## Project 8 - Natural Language Processing (NLP)
-1. Introducing "**Recurrent Neural Networks**" and building NLP model. Converting text to numbers either with "**Tokenisation**" (Text Vectorisation) or "**Embedding**".
+1. Introducing "**Recurrent Neural Networks**" and building NLP model. Converting text to numbers with "**Tokenisation**" (Text Vectorisation) and "**Embedding**".
