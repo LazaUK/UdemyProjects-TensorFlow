@@ -40,5 +40,5 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 1. Introducing TensorFlow Datasets (TFDS). Learning about batching and prefetching. Creating modelling callbacks.
 
 ## Project 8 - Natural Language Processing (NLP)
-1. Using "**Recurrent Neural Networks (RNN)**" to build NLP models. Converting text to numbers with "**Tokenisation**" (Text Vectorisation) and "**Embedding**". Visualising embedding layer's learnt weights with the [TensorFlow Embedding Projector](https://projector.tensorflow.org/). Building RNN with **LSTM-** (Long Short-Term Memory) and **GRU-** (Gated Recurrent Unit) cells
+1. Using "**Recurrent Neural Networks (RNN)**" to build NLP models. Converting text to numbers with "**Tokenisation**" (Text Vectorisation) and "**Embedding**". Visualising embedding layer's learnt weights with the [TensorFlow Embedding Projector](https://projector.tensorflow.org/). Building RNN with **LSTM-** (Long Short-Term Memory) and **GRU-** (Gated Recurrent Unit) cells. Measuring prediction run time.
 ![screenshot_8.1](images/Project8_EmbeddingProjector.png)
