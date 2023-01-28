@@ -44,4 +44,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 ![screenshot_8.1](images/Project8_EmbeddingProjector.png)
 
 ## Project 9 - Text Abstracts (Milestone 2)
-1. 
+1. Using RNN to skim medical texts and generate output text as per expected structured format.
