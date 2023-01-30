@@ -45,3 +45,6 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 
 ## Project 9 - Text Abstracts (Milestone 2)
 1. Using RNN to skim medical texts and generate output text as per expected structured format. Introducing multimodal setup with **layers.Concatenate**.
+
+## Project 10 - Time Series
+1.
