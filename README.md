@@ -47,4 +47,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 1. Using RNN to skim medical texts and generate output text as per expected structured format. Introducing multimodal setup with **layers.Concatenate**.
 
 ## Project 10 - Time Series
-1. Using time series analysis to predict Bitcoin prices. Applying Mean Absolute Scaled Error (MASE) metrics. Introducing terms of **window** and **horizon**.
+1. Using time series analysis to predict Bitcoin prices. Applying Mean Absolute Scaled Error (MASE) metrics. Introducing terms of **window** and **horizon**. Building various models to beat autocorrelation base model.
