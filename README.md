@@ -51,4 +51,4 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 
 ## Project 11 - Covid Results Predictions
 1. Results of the Cambridge Spark's Marc 2023 Hackathon. Predicting how likely the patient to get positive or negative Covid results, based on their answers from the provided questionnaire. Worked on the adapted dataset from the Israeli Ministry of Health - source is referenced within the Jupyter notebook.
-![screenshot_11.1](images/Project11_CovidPredict.png)
+![screenshot_11.1](images/Project11_CovidPrediction.png)
