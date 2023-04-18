@@ -47,7 +47,7 @@ I'll use this repo to store my TensorFlow (TF) study projects. I'm following her
 1. Using RNN to skim medical texts and generate output text as per expected structured format. Introducing multimodal setup with **layers.Concatenate**.
 
 ## Project 10 - Time Series
-1. Using time series analysis to predict Bitcoin prices. Applying Mean Absolute Scaled Error (MASE) metrics. Introducing terms of **window** and **horizon**. Building various models to beat autocorrelation base model.
+1. Using time series analysis to predict Bitcoin prices. Applying Mean Absolute Scaled Error (MASE) metrics. Introducing terms of **window** and **horizon**. Building various models to beat autocorrelation base model. Re-creating N-BEATS algorithm.
 
 ## Project 11 - Covid Results Predictions
 1. Results of the Cambridge Spark's Marc 2023 Hackathon. Predicting how likely the patient to get positive or negative Covid results, based on their answers from the provided questionnaire. Worked on the adapted dataset from the Israeli Ministry of Health - source is referenced within the Jupyter notebook.
